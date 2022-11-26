@@ -1,1 +1,8 @@
 my second affairs to go...
+
+git config --global user.name "mtkaya61"
+git config --global user.email "mtalhakaya99@gmail.com"
+git config --global color.ui true
+git config credential.username "mtkaya61"
+git config credential.password "Mtk.1923"
+git config --list
