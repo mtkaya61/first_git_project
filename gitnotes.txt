@@ -1,0 +1,8 @@
+***to create a gitgub repository***
+
+git init   --> create .git folder in the project. do once for each project
+git add . --> add all of the code
+git commit -m "first commit"  --> creates a new version(commit)
+git branch -M main --> creating a main branch
+git remote add origin https://github.com/mtkaya61/first_git_project.git  --> linking local repo to remote repo. 
+git push -u origin main  --> sending the code to that link
